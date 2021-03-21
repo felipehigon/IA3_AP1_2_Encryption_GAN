@@ -5,7 +5,7 @@ Encryption system using GAN and autoencoder networks
 
 ![AP1_2_SOL_INI_TRANS_PEQ](https://user-images.githubusercontent.com/73382103/111912985-5d383d80-8a6c-11eb-9a7c-12adbbaf380e.gif)
 
-![AP1_2_SOL_INI_GRANDE](https://drive.google.com/file/d/1TCKudjytiZSSd0eZpBIw8sO2GNPNHEjl/view?usp=sharing)
+![AP1_2_SOL_INI_GRANDE.GIF](https://drive.google.com/file/d/1TCKudjytiZSSd0eZpBIw8sO2GNPNHEjl/view?usp=sharing)
 
 ![Diagrama Solución Inicial_2](https://user-images.githubusercontent.com/73382103/111912719-34637880-8a6b-11eb-9fa0-24052a782d83.png)
 
